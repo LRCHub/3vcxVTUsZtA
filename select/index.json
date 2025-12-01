@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Neetz - dear summer",
+  "base_artist": "KANDYTOWN",
+  "createdAt": "2025-12-01T14:57:03.540883Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "METHOD (feat. MUD, Neetz & BSC)",
+      "artist": "KANDYTOWN",
+      "has_synced": true,
+      "path": "select/01_METHOD_(feat._MUD,_Neetz_&_BSC)_KANDYTOWN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angel Dust feat. Neetz, IO",
+      "artist": "Young Juju",
+      "has_synced": true,
+      "path": "select/02_Angel_Dust_feat._Neetz,_IO_Young_Juju.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Maniacs (feat. MUD, Neetz & KEIJU)",
+      "artist": "KANDYTOWN",
+      "has_synced": true,
+      "path": "select/03_The_Maniacs_(feat._MUD,_Neetz_&_KEIJU)_KANDYTOWN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛を伝えたいだとか Neetz ft. Ryohu \"studio991\" Remix",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/04_愛を伝えたいだとか_Neetz_ft._Ryohu__studio991__Remix_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛を伝えたいだとか Neetz ft. Ryohu \"studio991\" Remix",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/05_愛を伝えたいだとか_Neetz_ft._Ryohu__studio991__Remix_Various.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Couch (feat. DIAN, Ryohu, MUD, Neetz & BSC)",
+      "artist": "KANDYTOWN",
+      "has_synced": true,
+      "path": "select/06_Couch_(feat._DIAN,_Ryohu,_MUD,_Neetz_&_BSC)_KANDYTOWN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Leave The Message (feat. Neetz, MUD, BSC & Holly Q)",
+      "artist": "KANDYTOWN",
+      "has_synced": true,
+      "path": "select/07_Leave_The_Message_(feat._Neetz,_MUD,_BSC_&_Holly_Q)_KANDYTOWN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Riddim (feat. Gottz, Neetz & MUD)",
+      "artist": "KANDYTOWN",
+      "has_synced": true,
+      "path": "select/08_Riddim_(feat._Gottz,_Neetz_&_MUD)_KANDYTOWN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Definition (feat. BSC, Neetz & Ryohu)",
+      "artist": "KANDYTOWN",
+      "has_synced": true,
+      "path": "select/09_Definition_(feat._BSC,_Neetz_&_Ryohu)_KANDYTOWN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Body & Soul (feat. Gottz & Neetz)",
+      "artist": "Yo-Sea",
+      "has_synced": false,
+      "path": "select/10_Body_&_Soul_(feat._Gottz_&_Neetz)_Yo-Sea.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "(Nee) 't Zal Nooit Meer Gebeuren",
+      "artist": "André Hazes",
+      "has_synced": false,
+      "path": "select/pl_01_(Nee)_'t_Zal_Nooit_Meer_Gebeuren_André_Hazes.txt"
+    }
+  ]
+}
